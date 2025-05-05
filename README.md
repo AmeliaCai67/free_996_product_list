@@ -21,7 +21,6 @@
 | Jabra（吉普赛）  | GN Jabra                        | GN Jabra吧，做耳机的……五点多就关灯下班。                                                  |
 | 谷歌             | Google                          | “没啊谷歌不厉害，亚麻才是压榨厂子啊”，暗示谷歌较为宽松                                     |
 | GoPro            | GoPro                           | "买GoPro,iRobot不就行了吗？"                                                               |
-| 恒瑞             | Hengrui Medicine                | 回复 lllwzotis💙🥕 : 我在恒瑞确实不太加班呀，基本能正常下班                                 |
 | 恒瑞医药         | Hengrui Pharma                  | “在恒瑞确实不太加班，基本能正常下班”                                                       |
 | 喜士多便利店     | Hi! (Citgo/Xstore)              | 提名白名单：喜士多便利店。                                                                 |
 | 华熙生物         | HuaXi Bio                       | 华熙生物，早9晚5点半，双休，节假日不加班。不过工资水平比较低                               |
